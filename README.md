@@ -1,8 +1,8 @@
-### Hi there, I am José! 🖖🏾
+### Opa, eu sou José! 🖖🏾
 
-- 👨🏾‍🚀 I'm a young Brazilian, I'm 19 years old and I'm passionate about astronomy and artificial intelligence.
-- 🔭 I’m currently working on IT Support and learning Python.
-- 💬 Ask me about anything.
+- 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e inteligência artificial. 
+- 🔭 Atualmente eu trabalho como assistente de suporte técnico e estou estudando Python. 
+- 💬 Pergunte-me sobre tudo.
 
 <div>
   <a href="https://github.com/josecunha0">
