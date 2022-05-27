@@ -1,7 +1,7 @@
 ### Opa, eu sou José! 🖖🏾
 
-- 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e inteligência artificial. 
-- 🔭 Atualmente eu trabalho como assistente de suporte técnico e estou estudando programação. 
+- 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e tecnologia. 
+- 🔭 Atualmente eu trabalho como estagiário de suporte técnico e estou estudando programação. 
 - 💬 Pergunte-me sobre tudo.
 
 <div>
