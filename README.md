@@ -3,7 +3,7 @@
 - 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e tecnologia. 
 - 🔭 Atualmente eu trabalho como estagiário de suporte técnico e estou estudando programação. 
 - 💬 Pergunte-me sobre tudo.
-
+<br>
 <div align="center">
   <a href="https://github.com/josecunha0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=josecunha0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
