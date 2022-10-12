@@ -10,7 +10,7 @@
  <img height="00em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecunha0&layout=compact&langs_count=7&theme=dark"/>
 </div
   
-<div style="display:"><br>
+<div style="display: auto"><br>
   <img align="center" alt="José-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="José-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="José-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
