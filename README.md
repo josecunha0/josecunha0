@@ -1,7 +1,7 @@
 ### Opa, eu sou José! 🖖🏾
 
 - 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e tecnologia. 
-- 🔭 Atualmente eu curso bacharelado em Ciências da computação e trabalho no suporte técnico.
+- 🔭 Atualmente eu curso bacharelado em Ciências da computação e trabalho como helpdesk.  
 - 💬 Pergunte-me sobre tudo.
 <br>
 <div align="center">
