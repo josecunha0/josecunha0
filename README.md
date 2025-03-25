@@ -1,8 +1,8 @@
-### Opa, eu sou José! 🖖🏾
+### Hey, I'm José! 🖖🏾
 
-- 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e tecnologia. 
-- 🔭 Atualmente eu curso bacharelado em Ciências da computação e trabalho como helpdesk.  
-- 💬 Pergunte-me sobre tudo.
+- 👨🏾‍🚀 I'm a young Brazilian, passionate about astronomy and technology.
+- 🔭 Currently, I'm studying for a Bachelor's in Computer Science and working as a helpdesk technician.  
+- 💬 Ask me anything!
 <br>
 <div align="center">
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecunha0&layout=compact&langs_count=7&theme=dark"/>-->
