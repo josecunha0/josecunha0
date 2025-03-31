@@ -1,23 +1,41 @@
-### Hey, I'm José! 🖖🏾
+<h1 align="left">Hey, I'm José! 🖖🏾</h1>
 
-- 👨🏾‍🚀 I'm a young Brazilian, passionate about astronomy and technology.
-- 🔭 Currently, I'm studying for a Bachelor's in Computer Science and working as a helpdesk technician.  
-- 💬 Ask me anything!
-<br>
-<div align="center">
-  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecunha0&layout=compact&langs_count=7&theme=dark"/>-->
-  
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👨🏾‍🚀 I'm a young Brazilian, passionate about astronomy and technology.<br>    🔭 Currently, I'm studying for a Bachelor's in Computer Science and working as a helpdesk technician.<br>    💬 Ask me anything!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-  
-  
-  ##
-  
-<div style="display: inline_block">
-  <img align="center" alt="Jose-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-
-  <img align="center" alt="Jose-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">-
-  <img align="center" alt="Jose-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">-
-  <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  
-  
-  <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-cunha-da-silva-968096176" target="_blank"><img align="right" margin="0" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+###
+
+<img src="https://raw.githubusercontent.com/josecunha0/josecunha0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/josefernandocunha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
