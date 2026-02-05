@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">👨🏾‍🚀 I'm a young Brazilian, passionate about astronomy and technology.<br>    🔭 Currently, I'm studying for a Bachelor's in Computer Science and working as a Full-Stack Developer<br>    💬 Ask me anything!</p>
+<p align="left">👨🏾‍🚀 I'm a young Brazilian, passionate about astronomy and technology.<br>    🔭 Currently, I'm studying for a Bachelor's in Computer Science and working as a Automation and NetSuite Developer<br>    💬 Ask me anything!</p>
 
 <img src="https://raw.githubusercontent.com/josecunha0/josecunha0/output/snake.svg" alt="Snake animation" />
